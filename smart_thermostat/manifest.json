@@ -1,7 +1,7 @@
 {
   "domain": "smart_thermostat",
   "name": "Smart thermostat",
-  "documentation": "https://github.com/fabiannydegger/custom_components",
+  "documentation": "https://github.com/elha/home-assistant-smart-thermostat",
   "requirements": [],
   "dependencies": [
     "sensor",
