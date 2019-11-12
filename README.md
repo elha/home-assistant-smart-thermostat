@@ -10,7 +10,7 @@ missing feature test repository
 4. Set up the smart_thermostat and have fun
 
 ### Usage:
-pid controller will be called periodically.
+temp controller will be called periodically.
 output is a analog value
 
 #### Autotune:
